@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sayan
 - I'm currently a webdeveloper.
 - 👀 I’m interested in Machine Learning and web3.
-- 💞️ I’m looking to collaborate on some prejects on Webdev, UI/UX design any open source projects related to that.
+- 💞️ I’m looking to collaborate on some prejects on Webdev projects related to that.
 - 📫 How to reach me - sayandas.6523@gmail.com
 - ![](https://komarev.com/ghpvc/?username=Sayan67&color=green)
 - ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan67&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan67&layout=donut)](https://github.com/Saayan67/github-readme-stats)
